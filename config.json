@@ -1,0 +1,10 @@
+{
+    "repo_name": "NoNamedCat KiCad Plugins",
+    "maintainer": {
+        "name": "NoNamedCat",
+        "contact": {
+            "web": "https://github.com/NoNamedCat"
+        }
+    },
+    "base_url": "https://nonamedcat.github.io/nonamedcat-kicad"
+}
