@@ -22,10 +22,10 @@
                     "version": "0.0.1",
                     "status": "testing",
                     "kicad_version": "7.0",
-                    "download_sha256": "d56bb4df811fa21ca0ac632fcbb47aca063858beea92a61efd15eee210437ed2",
+                    "download_sha256": "3cfd561ff59a769134f2fcc926bffdcad516cdabadf92fd0c865037d4d6b2628",
                     "download_url": "https://nonamedcat.github.io/nonamedcat-kicad/packages/com.github.nonamedcat.jlc-library-gen/JLC_Library_Gen_v0.0.1.zip",
-                    "download_size": 28950,
-                    "install_size": 106529
+                    "download_size": 29351,
+                    "install_size": 108263
                 }
             ]
         }

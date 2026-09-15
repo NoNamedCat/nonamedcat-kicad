@@ -8,9 +8,9 @@
         }
     },
     "packages": {
-        "sha256": "e6cd849fcf0c57d27ee160d49993a5cfbbc06c9d7d20160a9373d1189c00c829",
-        "update_time_utc": "2026-09-14 00:35:55",
-        "update_timestamp": 1789346155,
+        "sha256": "4a8ab6edeb93dd25937de1ce06502c8278f0b81cc40361a0a83c50b4af9e3d4f",
+        "update_time_utc": "2026-09-15 23:19:39",
+        "update_timestamp": 1789514379,
         "url": "https://nonamedcat.github.io/nonamedcat-kicad/packages.json"
     }
 }
